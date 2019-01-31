@@ -1,3 +1,5 @@
+eschulma - This version allows parallel deployment on Tomcat 7 to work; Sitemesh 2 is apparently no longer maintained.
+
 *************************************
 ** OpenSymphony SiteMesh 2.5       **
 *************************************
